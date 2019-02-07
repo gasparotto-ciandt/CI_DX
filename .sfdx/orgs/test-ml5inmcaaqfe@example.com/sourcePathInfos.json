@@ -1,0 +1,164 @@
+[
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549550010247,
+            "changeTime": 1549550010247,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549550010248,
+            "changeTime": 1549550010248,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549561118797,
+            "changeTime": 1549561118797,
+            "contentHash": "e0870056a06eff99fab844ad80d458003352374d"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549561118768,
+            "changeTime": 1549561118768,
+            "contentHash": "bb91fbbc79de916e68ea0b4dcb7407bad1941aaf"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549557800490,
+            "changeTime": 1549557800490,
+            "contentHash": "1284b5819bda29cd7a9edb84ae7d90e386a49163",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1549561118758,
+            "changeTime": 1549561118758,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1549561118778,
+            "changeTime": 1549561118778,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord\\HelloWord.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 252,
+            "modifiedTime": 1549561118790,
+            "changeTime": 1549561118790,
+            "contentHash": "35561be3810832ff0780ac9890c23e159a655017"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\flexipages\\Home_Teste.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\flexipages\\Home_Teste.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1549561118804,
+            "changeTime": 1549561118804,
+            "contentHash": "8632f1e3a03bc9637db904153e943a5c4edbbb92"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549561118753,
+            "changeTime": 1549561118753,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\aura\\HelloWord",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549561118790,
+            "changeTime": 1549561118790,
+            "contentHash": "67c4dae686a00a4ee176c99a4ae75b5924e78b29"
+        }
+    ],
+    [
+        "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gasparotto\\Documents\\CI_DX\\Projeto\\CIDemo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1549561118804,
+            "changeTime": 1549561118804,
+            "contentHash": "897b0959ca1b029842142bec5265a9ec81e4013e"
+        }
+    ]
+]
